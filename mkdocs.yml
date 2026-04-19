@@ -1,4 +1,4 @@
-site_name: NumPower Documentation
+site_name: NumericPHP Documentation
 site_url: https://numpower.readthedocs.io
 site_description: Documentation for NumPower, a Python library for numerical computations.
 site_author: Rasaq Lawani
@@ -15,5 +15,6 @@ theme:
     - navigation.tabs        # Enables top navigation tabs
     - navigation.tabs.sticky 
 nav:
-  - Home: index.md
-  - Installation: installation.md
+  - Getting Started: index.md
+  - User Guide: user_guide.md
+  - API Reference: api_reference.md

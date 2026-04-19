@@ -1,3 +1,3 @@
-# Rubix NumPower Docs
+# NumericPHP Docs
 
-This is a working Documentation for the Numpower PHP NDarray Extension/Library.
+This is a working Documentation for the NumericPHP NDarray Extension/Library.
